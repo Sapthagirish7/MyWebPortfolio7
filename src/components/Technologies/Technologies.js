@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-     I have a good experience of various technologies and languages as a programmer till now.I am always keen to explore any new technologies. 
+     I have a good experience of below technologies and languages.I am always keen to explore any new technologies. 
     </SectionText>
     <List>
       <ListItem>
